@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nunesmlucas/nunesmlucas/main/profile-banner.png" alt="Lucas Nunes Banner" width="800" />
+<img src="https://raw.githubusercontent.com/nunesmlucas/nunesmlucas/main/profile-banner1.png" alt="Lucas Nunes Banner" width="800" />
 
 ---
 
