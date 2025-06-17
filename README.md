@@ -22,6 +22,14 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 
 ---
+## 🏢 Enterprise Contributions (Private)
+
+- ⚙️ **SideNav Component Re-Architecture:** Fully dynamic collapsible menu system using React, TypeScript, and internal design system.
+- 🖼 **Reusable Modal Framework:** Centralized modal system with dynamic form rendering for Create flows.
+- 📊 **UI Performance Improvements:** Reduced render blocking in large enterprise dashboards.
+- 🔐 **Enterprise Stack:** React, TypeScript, Node.js, Apollo GraphQL, Prisma ORM, AWS Lambda, Docker.
+
+---
 
 🎯 **Featured Projects**
 
