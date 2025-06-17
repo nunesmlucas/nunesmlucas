@@ -1,6 +1,4 @@
-# 👋 Hey there, I'm Lucas Nunes
-
-🚀 Full-Stack Engineer | SaaS Builder | Bruins Fan | Gamer IRL
+<img src="https://raw.githubusercontent.com/nunesmlucas/nunesmlucas/main/profile-banner.png" alt="Lucas Nunes Banner" width="800" />
 
 ---
 
