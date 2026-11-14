@@ -1,87 +1,25 @@
-<img src="https://raw.githubusercontent.com/nunesmlucas/nunesmlucas/main/profile-banner1.png" alt="Lucas Nunes Banner" width="800" />
+<img src="https://raw.githubusercontent.com/nunesmlucas/nunesmlucas/main/profile-banner1.png" alt="Lucas Nunes banner" width="800" />
 
-# 👋 Hey, I’m Lucas
+# Hey, I’m Lucas
 
-Senior Full-Stack Engineer with 7+ years of experience building, scaling, and maintaining SaaS products, internal platforms, and data-driven systems.
+**Senior Full-Stack Engineer · Founder of Avionyx**
 
-I specialize in **React + TypeScript frontends** and **Node.js + AWS backends**, with a strong focus on system design, performance, and developer experience. I’ve led core UI architecture initiatives, built reusable frameworks, and shipped features used by thousands of users in enterprise environments.
+I build web applications, API integrations, and data pipelines. I’ve spent 7+ years shipping production software in healthcare and financial services, from working through requirements with clients to debugging issues after release.
 
-I enjoy building products that move fast, scale cleanly, and solve real problems — whether that’s for a large org or a scrappy SaaS experiment.
+## What I’m building
 
----
+I started [Avionyx](https://avionyx.io/) to help contractors find public construction bids in one place. It pulls opportunities from federal, state, and local procurement portals into a searchable feed with email digests and CSV exports.
 
-## 🛠 Tech Stack
+- **Data ingestion.** I built connectors for SAM.gov, PA eMarketplace, SEPTA, and other procurement portals. The pipeline normalizes records, catches duplicates, handles retries and rate limits, and protects existing records from bad updates.
+- **Product and integrations.** I implemented authentication, workspace permissions, Stripe Checkout and billing webhooks, and alerts for failed ingestion jobs.
+- **AI-assisted development.** I set up a workflow where coding agents work from Linear tickets with acceptance criteria and open pull requests for review. It uses AI-assisted code review, GitHub Actions checks, and human approval before merge. Avionyx has a suite of 2,100+ automated tests.
 
-### Frontend
-- React, TypeScript, Vite
-- Tailwind & component libraries
-- TanStack Query, custom hooks, state management
-- Performance tuning & UX polish
+## Enterprise engineering
 
-### Backend
-- Node.js, Apollo GraphQL, REST APIs
-- Prisma ORM, PostgreSQL
-- Authentication, background jobs, data pipelines
+- **ICF (formerly SemanticBits).** I build React and TypeScript features, Node.js and GraphQL APIs, and SQL-backed workflows for a regulated healthcare platform serving CMS. I lead sprint demos and trace production issues across the browser, APIs, AWS logs, and database.
+- **UI architecture.** I redesigned shared navigation used across multiple enterprise applications, built a reusable framework for create and edit flows with shared validation, and reduced render blocking in data-heavy dashboards.
+- **EY.** I delivered tax and financial-services applications, worked directly with clients to clarify requirements and explain implementation tradeoffs, and led three developers through estimates, code reviews, and releases.
 
-### Infrastructure
-- AWS (Lambda, S3, RDS)
-- Docker & local dev environments
-- CI-friendly workflows and tooling
+**Tools I use** · TypeScript, React, Node.js, REST, GraphQL, PostgreSQL, Prisma, AWS, Docker, Playwright, Vitest, GitHub Actions
 
-### Other
-- System design & schema modeling
-- Internal tooling & refactors
-- Developer experience improvements
-
----
-
-## 🏢 Enterprise Impact (Private Repositories)
-
-- ⚙️ **Design System Architecture**  
-  Re-architected a fully dynamic, collapsible SideNav used across multiple enterprise applications.
-
-- 🧩 **Reusable Modal Framework**  
-  Built a centralized modal system enabling rapid Create/Edit flows with consistent UX and shared validation.
-
-- 🚀 **UI Performance Improvements**  
-  Reduced render blocking and improved responsiveness in large, data-heavy dashboards.
-
-- 🔐 **Production Stack**  
-  React, TypeScript, Node.js, Apollo GraphQL, Prisma, AWS Lambda, Docker.
-
----
-
-## 🎯 Featured Projects
-
-### 🗺 Lead Scraper MVP *(Private)*  
-**Automated lead generation SaaS**
-
-Google Maps–based scraper that collects, cleans, and exports business leads with automation and recurring-run support.
-
-**Tech:** Node.js, Playwright, cron jobs, SaaS billing concepts
-
----
-
-### 🎮 Game & UI Experiments  
-Small interactive projects exploring animation, state management, and UX patterns in React.
-
----
-
-## 🚧 Currently Building
-
-- A SaaS lead generation platform focused on automation and recurring revenue
-- Internal UI patterns for fast, maintainable CRUD-heavy applications
-- Cleaner local dev workflows using Docker and environment isolation
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nunesmlucas/
-- 📧 Email: mailto:nunesmlucasg@gmail.com
-
----
-
-⚡ **Fun Fact:** I refactor code with the same intensity I refactor my fantasy football team. 🏒
-
-> *Clean code. Scalable systems. Built to last.*
+[Avionyx](https://avionyx.io/) · [LinkedIn](https://www.linkedin.com/in/nunesmlucas/) · [Email](mailto:nunesmlucasg@gmail.com)
